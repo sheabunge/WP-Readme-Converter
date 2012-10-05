@@ -1,0 +1,4 @@
+plugin.php
+example/
+includes/*
+!includes/converter.php
